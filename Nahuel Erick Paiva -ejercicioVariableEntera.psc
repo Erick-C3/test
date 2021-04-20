@@ -1,5 +1,7 @@
 Algoritmo crearVariableEntera
 	
+	//cambie algo del codigo
+	
 	Definir cantidadContactos Como entero; // defini una variable entera
 	
 	cantidadContactos = 10;// inicialice la variable
